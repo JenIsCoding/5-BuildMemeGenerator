@@ -1,8 +1,5 @@
-# React + Vite
+[Build an AirBnb Experiences Clone](https://youtu.be/bMknfKXIFA8?t=16898)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create a Meme generator using an API with React.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*Concepts*: In this section, we deepen the knolwedge of forms' behaviour in React and we focus on React useState and useEffect. 
